@@ -39,7 +39,7 @@ apt install golang-go
 
 go version
 ------------------------------------------------------------------
-#install docker
+#install docker:
 
 
 cd ~
