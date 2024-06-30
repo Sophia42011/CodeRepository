@@ -1,9 +1,6 @@
 install go
 
 
-#source
-
-
 sudo apt update
 
 
