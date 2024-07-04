@@ -82,7 +82,6 @@ eigenlayer operator keys create --key-type bls gemgym
 
 nano operator.yaml
 
-#Eigen
 
 eigenlayer operator register operator.yaml
 
