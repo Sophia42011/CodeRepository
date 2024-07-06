@@ -33,9 +33,6 @@ apt install golang-go
 
 go version
 ------------------------------------------------------------------
-#install docker
-
-
 cd ~
 
 sudo apt-get update
