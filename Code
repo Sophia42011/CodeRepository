@@ -31,7 +31,7 @@ cat $HOME/.profile
 apt install golang-go
 
 
-go version /
+go version
 ------------------------------------------------------------------
 cd ~
 
