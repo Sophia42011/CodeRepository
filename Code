@@ -28,7 +28,7 @@ cat $HOME/.profile
 apt install golang-go
 
 
-go version 7.25.16.996
+go version 7.25.16.94
 ------------------------------------------------------------------
 cd ~
 
