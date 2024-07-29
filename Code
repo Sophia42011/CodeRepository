@@ -59,8 +59,6 @@ newgrp docker
 
 
 docker run hello-world
--------------------------------------------------------------------
-#Eigenlayer install Guide:
 
 
 cd~
