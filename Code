@@ -19,7 +19,7 @@ sudo nano $HOME/.profile
 export PATH=$PATH:/usr/local/go/bin
 
 
-source/ .profile
+source/ .profile 
 
 
 cat $HOME/.profile
